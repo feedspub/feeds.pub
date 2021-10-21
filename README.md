@@ -1,2 +1,2 @@
 # feeds.pub
-Feeds.Pub source code
+Open souring soon
